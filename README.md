@@ -1,3 +1,7 @@
+[![Build Status](https://dev.azure.com/sg5103u/Space-Game-web-Pipeline/_apis/build/status/shubhamgg1997.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/sg5103u/Space-Game-web-Pipeline/_build/latest?definitionId=53&branchName=master)
+
+
+
 
 # Contributing
 
